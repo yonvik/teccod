@@ -1,21 +1,13 @@
 # Задача №1
-```
 Написать функцию, которая принимает на вход список целых чисел и возвращает новый список, содержащий только уникальные элементы из исходного списка.
-```
-	- > https://github.com/yonvik/teccod/blob/main/unique_numbers.py
+- > https://github.com/yonvik/teccod/blob/main/unique_numbers.py
 # Задача №2
-```
 Написать функцию, которая принимает на вход два целых числа (минимум и максимум) и возвращает список всех простых чисел в заданном диапазоне.
-```
-	- > https://github.com/yonvik/teccod/blob/main/is_prime.py
+- > https://github.com/yonvik/teccod/blob/main/is_prime.py
 # Задача №3
-```
 Создать класс Point, который представляет собой точку в двумерном пространстве. Класс должен иметь методы для инициализации координат точки,
 вычисления расстояния до другой точки, а также для получения и изменения координат.
-```
-	- > https://github.com/yonvik/teccod/blob/main/point.py
+- > https://github.com/yonvik/teccod/blob/main/point.py
 # Задача №4
-```
 Написать программу, которая сортирует список строк по длине, сначала по возрастанию, а затем по убыванию.
-```
-	- > https://github.com/yonvik/teccod/blob/main/str_length.py
+- > https://github.com/yonvik/teccod/blob/main/str_length.py
